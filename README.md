@@ -1,4 +1,4 @@
-# Node.js pHash - Image matcher Core for Docker 
+# Base docker image for pHash and node.js 
 Only building the core image needed to use pHash in docker and node.js.
 
 It includes node.js phash wrapper (https://github.com/aaronm67/node-phash) which is built at the end.
