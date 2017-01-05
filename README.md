@@ -1,4 +1,4 @@
-# Image matcher CORE 
+# Node.js pHash - Image matcher Core for Docker 
 Only building the core image needed to use pHash in docker and node.js.
 
 It includes node.js phash wrapper (https://github.com/aaronm67/node-phash) which is built at the end.
